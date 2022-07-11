@@ -45,3 +45,8 @@ body
 	display: block;
 	position: absolute;
 }
+#menu ul li .sub-menu li:hover
+{
+	background-color:white;
+	color:black;
+}
